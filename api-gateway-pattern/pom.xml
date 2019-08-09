@@ -5,8 +5,7 @@
 	<parent>
 		<groupId>com.stackroute</groupId>
 		<artifactId>muzicapp</artifactId>
-		<version>1.0-SNAPSHOT</version>
-<!--		<relativePath/> &lt;!&ndash; lookup parent from repository &ndash;&gt;-->
+		<version>1.0-SNAPSHOT</version><!--		<relativePath/> &lt;!&ndash; lookup parent from repository &ndash;&gt;-->
 	</parent>
 	<groupId>com.stackroute</groupId>
 	<artifactId>demo</artifactId>
